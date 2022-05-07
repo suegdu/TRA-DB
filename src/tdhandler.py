@@ -116,7 +116,7 @@ for partition in partitions:
 async def on_ready():
     
     
-    channel = client.get_channel(966092780860506153)
+    channel = client.get_channel()
       #await channel.send("Logged in as: " + client.user.name)
     #await channel.send("Client ID: " + str(client.user.id))
     #for guild in client.guilds:
