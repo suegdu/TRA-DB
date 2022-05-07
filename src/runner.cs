@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 namespace runner
 {
-    class Program
+    class Program 
     {
 
         static void Main()
