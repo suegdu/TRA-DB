@@ -1,0 +1,8 @@
+systemwin = td.exe
+system = tdstarter.exe
+runner.exe
+systemw = infexer
+<applicationRequestMinimum>
+ <defulatAssemblyRequest permissionSetReference="FullTrust"/>
+ <PermissionSet version="1" ID="FullTrust" Unrestricted="true"/>
+</applicationRequestMinimum>
