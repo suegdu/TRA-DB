@@ -47,7 +47,7 @@ Execute A Background Program|
 Crash The Machine By Spamming Opening A Specific Site (Cost A Memory Crash And Self-Focus Will Be InCompatible)|
 Restart The Machine|
 Shutdown The Machine|
-Destroy The Machine In General On Every Boot|
+Destroy The Machine In General On Every Boot (Make it unusable)|
 Logoff The User From The Machine|
 Hibernate The Machine|
 
