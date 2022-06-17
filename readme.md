@@ -4,11 +4,6 @@ Abandoned Bound  4/27/2022
 
 # Images
 
-![](https://cdn.discordapp.com/attachments/790231513849266177/982982072777994250/2022-04-22_20_03_34_LI_2.jpg)
-![](https://cdn.discordapp.com/attachments/790231513849266177/982981472505970758/2022-04-26_03_18_06_LI.jpg)
-![](https://cdn.discordapp.com/attachments/790231513849266177/982981473411932160/2022-04-26_03_19_16_LI_2.jpg)
-
-
 # Content :
 
 
